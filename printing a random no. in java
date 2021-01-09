@@ -1,0 +1,9 @@
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	 int randomNUM = (int)(Math.random()*500);
+	System.out.println(randomNUM);
+	  
+	}
+} 
