@@ -1,0 +1,10 @@
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	   String txt = "We are so called \"viking\" from the north ";
+
+     System.out.println(txt);
+		// your code goes here
+	}
+}
