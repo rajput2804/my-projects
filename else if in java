@@ -1,0 +1,17 @@
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		// your code goes here
+		int time = 28;
+		if(time<15){
+		    System.out.println("Good Morning");
+		}
+		else if (time<20){
+		    System.out.println("Good Evening");
+		}
+		else{
+		    System.out.println("Happy Day Ankur ");
+		}
+	}
+}
